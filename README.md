@@ -6,7 +6,7 @@ A **CPU-efficient**, **explainable**, and **production-ready** pipeline that cla
 
 ---
 
-## 📖 Contents
+## 📚 Table of Contents 
 
 1. 🚀 Quick Start  
 2. 📂 Repo Structure  

@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+nltk
+spacy
+vaderSentiment
+matplotlib
+jupyter

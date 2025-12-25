@@ -191,7 +191,7 @@ Distributed under the **MIT License**. See `LICENSE` for more details.
 
 👤 **Mohid Arshad**  
 - GitHub: [akamohid](https://github.com/akamohid)  
-- LinkedIn: [mohid-arshad-347180235](https://linkedin.com/in/mohid-arshad-347180235/)  
+- LinkedIn: [akamohid](https://www.linkedin.com/in/akamohid/)  
 - Email: akamohid@gmail.com  
 
 ---
